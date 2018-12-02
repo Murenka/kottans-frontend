@@ -13,6 +13,6 @@
 > Это было невероятно сложно и познавательно) Git и GitHub поразили воображение, превосходная система)
 > P.S. С прямыми ссылками в GitHub разберусь позже)
 ---
-![ScreenShot](https://github.com/Murenka/kottans-frontend/blob/master/Git_intro/task0-1.png) 
+![ScreenShot](https://github.com/Murenka/kottans-frontend/blob/master/Git_intro/task0-3.png) 
 ![ScreenShot](https://github.com/Murenka/kottans-frontend/blob/master/Git_intro/task0-2.png) 
 ![ScreenShot](https://github.com/Murenka/kottans-frontend/blob/master/Git_intro/task0-1.png) 
