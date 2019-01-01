@@ -6,9 +6,9 @@
 
 > CSS - это новый дивный мир)
 
-* [task3-1.png](/Git_intro/task3-1.png)
-* [task3-2.png](/Git_intro/task3-2.png) 
-* [task3-3.png](/Git_intro/task3-3.png)
+* [task3-1.png](/Task_Html_Css_Intro/task3-1.png)
+* [task3-2.png](/Task_Html_Css_Intro/task3-2.png) 
+* [task3-3.png](/Task_Html_Css_Intro/task3-3.png)
 
 ### Task 2
 ### Git for Team Collaboration
