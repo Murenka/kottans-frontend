@@ -1,8 +1,16 @@
 ## kottans-frontend
 ### Front-End Course. Report
 
+### Task 4
+#### Responsive Web Design
+
+> Без комментария)
+
+* [task4-1.png](/Responsive_Web_Design/task4-1.png)
+* [task4-2.png](/Responsive_Web_Design/task4-2.png) 
+
 ### Task 3
-### Front-End Basics
+#### Front-End Basics
 
 > CSS - это новый дивный мир)
 
@@ -11,7 +19,7 @@
 * [task3-3.png](/Task_Html_Css_Intro/task3-3.png)
 
 ### Task 2
-### Git for Team Collaboration
+#### Git for Team Collaboration
 
 > Git удивительный, хочу освоить все)
 
@@ -19,7 +27,7 @@
 ![ScreenShot](Task_Git_Collaboration/task2-2.png) 
 
 ### Task 1
-### Linux CLI, HTTP
+#### Linux CLI, HTTP
 
 > Открыла для себя линукс, оказалось все намного проще чем я думала)
 
@@ -27,7 +35,7 @@
 ![ScreenShot](https://github.com/Murenka/kottans-frontend/blob/master/Linux_CLI_and_Networking/task1-1.png) 
 
 ### Task 
-### Git intro
+#### Git intro
 
 > Это было невероятно сложно и познавательно) Git и GitHub поразили воображение, превосходная система)
 > P.S. С прямыми ссылками в GitHub разберусь позже)
